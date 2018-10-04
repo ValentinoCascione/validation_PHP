@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mali', cursive;
+
+}
+
+
+.section1 {
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+    background-color: black;
+    width: 100%;
+}
+
+.section2 {
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+}
+
+.section3 {
+    margin-top: 0;
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+}
+
+.section2 p {
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    color: black;
+}
+
+.section3 p {
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section1 p {
+    padding-left: 10%;
+    padding-right: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: black;
+    
+}
+
+h1 {
+    color: black;
+}
+
+
+form {
+    display: flex;
+    justify-content: center;
+}
